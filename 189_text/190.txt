@@ -1,0 +1,3 @@
+Creating this from ruby
+No line break here!Pretty cool!
+This will only append the file

@@ -1,0 +1,2 @@
+target file and write  in cmd
+rdoc file.rb

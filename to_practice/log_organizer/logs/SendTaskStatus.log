@@ -1,0 +1,2645 @@
+Sun, 03 Jun 2018 23:01:50 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Sun, 03 Jun 2018 23:01:50 Attempting to connect to proxyhost
+Sun, 03 Jun 2018 23:01:50 connect to proxy result: 0
+Sun, 03 Jun 2018 23:01:50 Using proxyhost to communicate with the core
+Sun, 03 Jun 2018 23:01:50 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Sun, 03 Jun 2018 23:01:50 re-getting the computer idn
+Sun, 03 Jun 2018 23:01:50 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Sun, 03 Jun 2018 23:01:50 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Sun, 03 Jun 2018 23:01:50 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Sun, 03 Jun 2018 23:01:51 Success
+Sun, 03 Jun 2018 23:01:51 local address: 10.188.34.19
+Sun, 03 Jun 2018 23:01:51 Last status: Done
+Sun, 03 Jun 2018 23:01:51 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Sun, 03 Jun 2018 23:01:51 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Sun, 03 Jun 2018 23:01:51 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Sun, 03 Jun 2018 23:01:53 Success
+Sun, 03 Jun 2018 23:01:53 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Sun, 03 Jun 2018 23:01:53 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Sun, 03 Jun 2018 23:01:53 Attempting to connect to proxyhost
+Sun, 03 Jun 2018 23:01:53 connect to proxy result: 0
+Sun, 03 Jun 2018 23:01:53 Using proxyhost to communicate with the core
+Sun, 03 Jun 2018 23:01:53 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Sun, 03 Jun 2018 23:01:53 re-getting the computer idn
+Sun, 03 Jun 2018 23:01:53 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Sun, 03 Jun 2018 23:01:53 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Sun, 03 Jun 2018 23:01:53 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Sun, 03 Jun 2018 23:01:54 Success
+Sun, 03 Jun 2018 23:01:54 local address: 10.188.34.19
+Sun, 03 Jun 2018 23:01:54 Last status: Done
+Sun, 03 Jun 2018 23:01:54 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Sun, 03 Jun 2018 23:01:54 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Sun, 03 Jun 2018 23:01:54 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Sun, 03 Jun 2018 23:01:54 Success
+Sun, 03 Jun 2018 23:01:56 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Sun, 03 Jun 2018 23:01:56 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Sun, 03 Jun 2018 23:01:56 Attempting to connect to proxyhost
+Sun, 03 Jun 2018 23:01:56 connect to proxy result: 0
+Sun, 03 Jun 2018 23:01:56 Using proxyhost to communicate with the core
+Sun, 03 Jun 2018 23:01:56 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Sun, 03 Jun 2018 23:01:56 re-getting the computer idn
+Sun, 03 Jun 2018 23:01:56 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Sun, 03 Jun 2018 23:01:56 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Sun, 03 Jun 2018 23:01:56 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Sun, 03 Jun 2018 23:01:56 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Sun, 03 Jun 2018 23:01:56 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Sun, 03 Jun 2018 23:01:56 Attempting to connect to proxyhost
+Sun, 03 Jun 2018 23:01:56 connect to proxy result: 0
+Sun, 03 Jun 2018 23:01:56 Using proxyhost to communicate with the core
+Sun, 03 Jun 2018 23:01:56 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Sun, 03 Jun 2018 23:01:56 re-getting the computer idn
+Sun, 03 Jun 2018 23:01:56 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Sun, 03 Jun 2018 23:01:56 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Sun, 03 Jun 2018 23:01:56 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Sun, 03 Jun 2018 23:01:56 Success
+Sun, 03 Jun 2018 23:01:56 local address: 10.188.34.19
+Sun, 03 Jun 2018 23:01:56 Last status: Done
+Sun, 03 Jun 2018 23:01:56 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Sun, 03 Jun 2018 23:01:56 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Sun, 03 Jun 2018 23:01:56 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Sun, 03 Jun 2018 23:01:57 Success
+Sun, 03 Jun 2018 23:01:57 local address: 10.188.34.19
+Sun, 03 Jun 2018 23:01:57 Last status: Done
+Sun, 03 Jun 2018 23:01:57 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Sun, 03 Jun 2018 23:01:57 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Sun, 03 Jun 2018 23:01:57 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Sun, 03 Jun 2018 23:01:57 Success
+Sun, 03 Jun 2018 23:01:58 Success
+Sun, 03 Jun 2018 23:01:59 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Sun, 03 Jun 2018 23:01:59 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Sun, 03 Jun 2018 23:01:59 Attempting to connect to proxyhost
+Sun, 03 Jun 2018 23:01:59 connect to proxy result: 0
+Sun, 03 Jun 2018 23:01:59 Using proxyhost to communicate with the core
+Sun, 03 Jun 2018 23:01:59 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Sun, 03 Jun 2018 23:01:59 re-getting the computer idn
+Sun, 03 Jun 2018 23:01:59 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Sun, 03 Jun 2018 23:01:59 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Sun, 03 Jun 2018 23:01:59 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Sun, 03 Jun 2018 23:02:00 Success
+Sun, 03 Jun 2018 23:02:00 local address: 10.188.34.19
+Sun, 03 Jun 2018 23:02:00 Last status: Done
+Sun, 03 Jun 2018 23:02:00 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Sun, 03 Jun 2018 23:02:00 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Sun, 03 Jun 2018 23:02:00 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Sun, 03 Jun 2018 23:02:00 Success
+Mon, 04 Jun 2018 00:29:31 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 00:29:31 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 00:29:31 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 00:29:31 connect to proxy result: 0
+Mon, 04 Jun 2018 00:29:31 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 00:29:31 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 00:29:31 re-getting the computer idn
+Mon, 04 Jun 2018 00:29:31 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 00:29:31 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 00:29:31 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 00:29:31 Success
+Mon, 04 Jun 2018 00:29:31 local address: 10.188.34.19
+Mon, 04 Jun 2018 00:29:31 Last status: Done
+Mon, 04 Jun 2018 00:29:31 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 00:29:31 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 00:29:31 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 00:29:32 Success
+Mon, 04 Jun 2018 00:29:32 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 00:29:32 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 00:29:32 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 00:29:32 connect to proxy result: 0
+Mon, 04 Jun 2018 00:29:32 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 00:29:32 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 00:29:32 re-getting the computer idn
+Mon, 04 Jun 2018 00:29:32 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 00:29:32 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 00:29:32 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 00:29:33 Success
+Mon, 04 Jun 2018 00:29:33 local address: 10.188.34.19
+Mon, 04 Jun 2018 00:29:33 Last status: Done
+Mon, 04 Jun 2018 00:29:33 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 00:29:33 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 00:29:33 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 00:29:33 Success
+Mon, 04 Jun 2018 17:05:01 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 17:05:01 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 17:05:01 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 17:05:01 connect to proxy result: 0
+Mon, 04 Jun 2018 17:05:01 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 17:05:01 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 17:05:01 re-getting the computer idn
+Mon, 04 Jun 2018 17:05:01 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 17:05:01 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 17:05:01 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 17:05:02 Success
+Mon, 04 Jun 2018 17:05:02 local address: 10.188.34.19
+Mon, 04 Jun 2018 17:05:02 Last status: Done
+Mon, 04 Jun 2018 17:05:02 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 17:05:02 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 17:05:02 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 17:05:02 Success
+Mon, 04 Jun 2018 17:05:02 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 17:05:02 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 17:05:02 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 17:05:02 connect to proxy result: 0
+Mon, 04 Jun 2018 17:05:02 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 17:05:02 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 17:05:02 re-getting the computer idn
+Mon, 04 Jun 2018 17:05:02 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 17:05:02 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 17:05:02 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 17:05:03 Success
+Mon, 04 Jun 2018 17:05:03 local address: 10.188.34.19
+Mon, 04 Jun 2018 17:05:03 Last status: Done
+Mon, 04 Jun 2018 17:05:03 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 17:05:03 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 17:05:03 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 17:05:03 Success
+Mon, 04 Jun 2018 17:05:05 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 17:05:05 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 17:05:05 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 17:05:05 connect to proxy result: 0
+Mon, 04 Jun 2018 17:05:05 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 17:05:05 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 17:05:05 re-getting the computer idn
+Mon, 04 Jun 2018 17:05:05 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 17:05:05 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 17:05:05 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 17:05:05 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 17:05:05 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 17:05:05 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 17:05:05 connect to proxy result: 0
+Mon, 04 Jun 2018 17:05:05 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 17:05:05 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 17:05:05 re-getting the computer idn
+Mon, 04 Jun 2018 17:05:05 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 17:05:05 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 17:05:05 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 17:05:06 Success
+Mon, 04 Jun 2018 17:05:06 local address: 10.188.34.19
+Mon, 04 Jun 2018 17:05:06 Last status: Done
+Mon, 04 Jun 2018 17:05:06 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 17:05:06 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 17:05:06 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 17:05:06 Success
+Mon, 04 Jun 2018 17:05:06 local address: 10.188.34.19
+Mon, 04 Jun 2018 17:05:06 Last status: Done
+Mon, 04 Jun 2018 17:05:06 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 17:05:06 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 17:05:06 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 17:05:06 Success
+Mon, 04 Jun 2018 17:05:06 Success
+Mon, 04 Jun 2018 17:05:07 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 17:05:07 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 17:05:07 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 17:05:07 connect to proxy result: 0
+Mon, 04 Jun 2018 17:05:07 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 17:05:07 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 17:05:07 re-getting the computer idn
+Mon, 04 Jun 2018 17:05:07 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 17:05:07 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 17:05:07 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 17:05:08 Success
+Mon, 04 Jun 2018 17:05:08 local address: 10.188.34.19
+Mon, 04 Jun 2018 17:05:08 Last status: Done
+Mon, 04 Jun 2018 17:05:08 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 17:05:08 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 17:05:08 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 17:05:08 Success
+Mon, 04 Jun 2018 17:05:49 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 17:05:49 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 17:05:49 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 17:05:49 connect to proxy result: 0
+Mon, 04 Jun 2018 17:05:49 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 17:05:49 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 17:05:49 re-getting the computer idn
+Mon, 04 Jun 2018 17:05:49 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 17:05:49 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 17:05:49 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 17:05:50 Success
+Mon, 04 Jun 2018 17:05:50 local address: 10.188.34.19
+Mon, 04 Jun 2018 17:05:50 Last status: Done
+Mon, 04 Jun 2018 17:05:50 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 17:05:50 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 17:05:50 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 17:05:51 Success
+Mon, 04 Jun 2018 17:05:51 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 17:05:51 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 17:05:51 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 17:05:51 connect to proxy result: 0
+Mon, 04 Jun 2018 17:05:51 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 17:05:51 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 17:05:51 re-getting the computer idn
+Mon, 04 Jun 2018 17:05:51 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 17:05:51 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 17:05:51 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 17:05:51 Success
+Mon, 04 Jun 2018 17:05:51 local address: 10.188.34.19
+Mon, 04 Jun 2018 17:05:51 Last status: Done
+Mon, 04 Jun 2018 17:05:51 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 17:05:51 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 17:05:51 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 17:05:52 Success
+Mon, 04 Jun 2018 18:03:34 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 18:03:34 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 18:03:34 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 18:03:34 connect to proxy result: 0
+Mon, 04 Jun 2018 18:03:34 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 18:03:34 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 18:03:34 re-getting the computer idn
+Mon, 04 Jun 2018 18:03:34 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 18:03:34 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 18:03:34 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 18:03:35 Success
+Mon, 04 Jun 2018 18:03:35 local address: 10.188.34.19
+Mon, 04 Jun 2018 18:03:35 Last status: Done
+Mon, 04 Jun 2018 18:03:35 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 18:03:35 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 18:03:35 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 18:03:35 Success
+Mon, 04 Jun 2018 18:03:35 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 18:03:35 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 18:03:35 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 18:03:35 connect to proxy result: 0
+Mon, 04 Jun 2018 18:03:35 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 18:03:35 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 18:03:35 re-getting the computer idn
+Mon, 04 Jun 2018 18:03:35 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 18:03:35 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 18:03:35 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 18:03:36 Success
+Mon, 04 Jun 2018 18:03:36 local address: 10.188.34.19
+Mon, 04 Jun 2018 18:03:36 Last status: Done
+Mon, 04 Jun 2018 18:03:36 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 18:03:36 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 18:03:36 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 18:03:36 Success
+Mon, 04 Jun 2018 18:03:37 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 18:03:37 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 18:03:37 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 18:03:37 connect to proxy result: 0
+Mon, 04 Jun 2018 18:03:37 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 18:03:37 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 18:03:37 re-getting the computer idn
+Mon, 04 Jun 2018 18:03:37 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 18:03:37 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 18:03:37 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 18:03:38 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 18:03:38 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 18:03:38 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 18:03:38 connect to proxy result: 0
+Mon, 04 Jun 2018 18:03:38 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 18:03:38 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 18:03:38 re-getting the computer idn
+Mon, 04 Jun 2018 18:03:38 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 18:03:38 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 18:03:38 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 18:03:38 Success
+Mon, 04 Jun 2018 18:03:38 local address: 10.188.34.19
+Mon, 04 Jun 2018 18:03:38 Last status: Done
+Mon, 04 Jun 2018 18:03:38 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 18:03:38 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 18:03:38 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 18:03:39 Success
+Mon, 04 Jun 2018 18:03:39 local address: 10.188.34.19
+Mon, 04 Jun 2018 18:03:39 Last status: Done
+Mon, 04 Jun 2018 18:03:39 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 18:03:39 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 18:03:39 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 18:03:39 Success
+Mon, 04 Jun 2018 18:03:39 Success
+Mon, 04 Jun 2018 18:03:40 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 18:03:40 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 18:03:40 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 18:03:40 connect to proxy result: 0
+Mon, 04 Jun 2018 18:03:40 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 18:03:40 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 18:03:40 re-getting the computer idn
+Mon, 04 Jun 2018 18:03:40 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 18:03:40 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 18:03:40 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 18:03:40 Success
+Mon, 04 Jun 2018 18:03:40 local address: 10.188.34.19
+Mon, 04 Jun 2018 18:03:40 Last status: Done
+Mon, 04 Jun 2018 18:03:40 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 18:03:40 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 18:03:40 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 18:03:41 Success
+Mon, 04 Jun 2018 18:07:01 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 18:07:01 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 18:07:01 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 18:07:01 connect to proxy result: 0
+Mon, 04 Jun 2018 18:07:01 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 18:07:01 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 18:07:01 re-getting the computer idn
+Mon, 04 Jun 2018 18:07:01 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 18:07:01 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 18:07:01 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 18:07:01 Success
+Mon, 04 Jun 2018 18:07:01 local address: 10.188.34.19
+Mon, 04 Jun 2018 18:07:01 Last status: Done
+Mon, 04 Jun 2018 18:07:01 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 18:07:01 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 18:07:01 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 18:07:02 Success
+Mon, 04 Jun 2018 18:07:02 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 18:07:02 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 18:07:02 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 18:07:02 connect to proxy result: 0
+Mon, 04 Jun 2018 18:07:02 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 18:07:02 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 18:07:02 re-getting the computer idn
+Mon, 04 Jun 2018 18:07:02 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 18:07:02 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 18:07:02 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 18:07:03 Success
+Mon, 04 Jun 2018 18:07:03 local address: 10.188.34.19
+Mon, 04 Jun 2018 18:07:03 Last status: Done
+Mon, 04 Jun 2018 18:07:03 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 18:07:03 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 18:07:03 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 18:07:03 Success
+Mon, 04 Jun 2018 23:01:57 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 23:01:57 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 23:01:57 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 23:01:57 connect to proxy result: 0
+Mon, 04 Jun 2018 23:01:57 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 23:01:57 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 23:01:57 re-getting the computer idn
+Mon, 04 Jun 2018 23:01:57 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 23:01:57 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 23:01:57 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 23:01:58 Success
+Mon, 04 Jun 2018 23:01:58 local address: 10.188.34.19
+Mon, 04 Jun 2018 23:01:58 Last status: Done
+Mon, 04 Jun 2018 23:01:58 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 23:01:58 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 23:01:58 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 23:01:58 Success
+Mon, 04 Jun 2018 23:01:58 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 23:01:58 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 23:01:58 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 23:01:58 connect to proxy result: 0
+Mon, 04 Jun 2018 23:01:58 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 23:01:58 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 23:01:58 re-getting the computer idn
+Mon, 04 Jun 2018 23:01:58 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 23:01:58 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 23:01:58 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 23:01:59 Success
+Mon, 04 Jun 2018 23:01:59 local address: 10.188.34.19
+Mon, 04 Jun 2018 23:01:59 Last status: Done
+Mon, 04 Jun 2018 23:01:59 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 23:01:59 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 23:01:59 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 23:01:59 Success
+Mon, 04 Jun 2018 23:02:01 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 23:02:01 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 23:02:01 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 23:02:01 connect to proxy result: 0
+Mon, 04 Jun 2018 23:02:01 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 23:02:01 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 23:02:01 re-getting the computer idn
+Mon, 04 Jun 2018 23:02:01 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 23:02:01 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 23:02:01 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 23:02:01 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 23:02:01 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 23:02:01 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 23:02:01 connect to proxy result: 0
+Mon, 04 Jun 2018 23:02:01 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 23:02:01 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 23:02:01 re-getting the computer idn
+Mon, 04 Jun 2018 23:02:01 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 23:02:01 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 23:02:01 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 23:02:01 Success
+Mon, 04 Jun 2018 23:02:01 local address: 10.188.34.19
+Mon, 04 Jun 2018 23:02:01 Last status: Done
+Mon, 04 Jun 2018 23:02:01 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 23:02:01 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 23:02:01 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 23:02:02 Success
+Mon, 04 Jun 2018 23:02:02 local address: 10.188.34.19
+Mon, 04 Jun 2018 23:02:02 Last status: Done
+Mon, 04 Jun 2018 23:02:02 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 23:02:02 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 23:02:02 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 23:02:02 Success
+Mon, 04 Jun 2018 23:02:02 Success
+Mon, 04 Jun 2018 23:02:03 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 23:02:03 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 23:02:03 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 23:02:03 connect to proxy result: 0
+Mon, 04 Jun 2018 23:02:03 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 23:02:03 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 23:02:03 re-getting the computer idn
+Mon, 04 Jun 2018 23:02:03 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 23:02:03 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 23:02:03 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 23:02:04 Success
+Mon, 04 Jun 2018 23:02:04 local address: 10.188.34.19
+Mon, 04 Jun 2018 23:02:04 Last status: Done
+Mon, 04 Jun 2018 23:02:04 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 23:02:04 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 23:02:04 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 23:02:05 Success
+Mon, 04 Jun 2018 23:26:16 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 23:26:16 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 23:26:16 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 23:26:16 connect to proxy result: 0
+Mon, 04 Jun 2018 23:26:16 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 23:26:16 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 23:26:16 re-getting the computer idn
+Mon, 04 Jun 2018 23:26:16 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 23:26:16 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 23:26:16 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 23:26:16 Success
+Mon, 04 Jun 2018 23:26:16 local address: 10.188.34.19
+Mon, 04 Jun 2018 23:26:16 Last status: Done
+Mon, 04 Jun 2018 23:26:16 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 23:26:16 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 23:26:16 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 23:26:17 Success
+Mon, 04 Jun 2018 23:26:17 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 04 Jun 2018 23:26:17 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 04 Jun 2018 23:26:17 Attempting to connect to proxyhost
+Mon, 04 Jun 2018 23:26:17 connect to proxy result: 0
+Mon, 04 Jun 2018 23:26:17 Using proxyhost to communicate with the core
+Mon, 04 Jun 2018 23:26:17 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 04 Jun 2018 23:26:17 re-getting the computer idn
+Mon, 04 Jun 2018 23:26:17 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 04 Jun 2018 23:26:17 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 23:26:17 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 04 Jun 2018 23:26:18 Success
+Mon, 04 Jun 2018 23:26:18 local address: 10.188.34.19
+Mon, 04 Jun 2018 23:26:18 Last status: Done
+Mon, 04 Jun 2018 23:26:18 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 04 Jun 2018 23:26:18 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 23:26:18 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 04 Jun 2018 23:26:18 Success
+Tue, 05 Jun 2018 17:04:59 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 17:04:59 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 17:04:59 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 17:04:59 connect to proxy result: 0
+Tue, 05 Jun 2018 17:04:59 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 17:04:59 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 17:04:59 re-getting the computer idn
+Tue, 05 Jun 2018 17:04:59 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 17:04:59 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 17:04:59 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 17:05:00 Success
+Tue, 05 Jun 2018 17:05:00 local address: 10.188.34.19
+Tue, 05 Jun 2018 17:05:00 Last status: Done
+Tue, 05 Jun 2018 17:05:00 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 17:05:00 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 17:05:00 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 17:05:00 Success
+Tue, 05 Jun 2018 17:05:00 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 17:05:00 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 17:05:00 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 17:05:00 connect to proxy result: 0
+Tue, 05 Jun 2018 17:05:00 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 17:05:00 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 17:05:00 re-getting the computer idn
+Tue, 05 Jun 2018 17:05:00 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 17:05:00 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 17:05:00 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 17:05:01 Success
+Tue, 05 Jun 2018 17:05:01 local address: 10.188.34.19
+Tue, 05 Jun 2018 17:05:01 Last status: Done
+Tue, 05 Jun 2018 17:05:01 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 17:05:01 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 17:05:01 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 17:05:02 Success
+Tue, 05 Jun 2018 17:05:03 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 17:05:03 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 17:05:03 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 17:05:03 connect to proxy result: 0
+Tue, 05 Jun 2018 17:05:03 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 17:05:03 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 17:05:03 re-getting the computer idn
+Tue, 05 Jun 2018 17:05:03 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 17:05:03 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 17:05:03 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 17:05:03 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 17:05:03 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 17:05:03 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 17:05:03 connect to proxy result: 0
+Tue, 05 Jun 2018 17:05:03 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 17:05:03 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 17:05:03 re-getting the computer idn
+Tue, 05 Jun 2018 17:05:03 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 17:05:03 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 17:05:03 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 17:05:04 Success
+Tue, 05 Jun 2018 17:05:04 local address: 10.188.34.19
+Tue, 05 Jun 2018 17:05:04 Last status: Done
+Tue, 05 Jun 2018 17:05:04 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 17:05:04 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 17:05:04 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 17:05:04 Success
+Tue, 05 Jun 2018 17:05:04 local address: 10.188.34.19
+Tue, 05 Jun 2018 17:05:04 Last status: Done
+Tue, 05 Jun 2018 17:05:04 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 17:05:04 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 17:05:04 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 17:05:04 Success
+Tue, 05 Jun 2018 17:05:04 Success
+Tue, 05 Jun 2018 17:05:05 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 17:05:05 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 17:05:05 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 17:05:05 connect to proxy result: 0
+Tue, 05 Jun 2018 17:05:05 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 17:05:05 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 17:05:05 re-getting the computer idn
+Tue, 05 Jun 2018 17:05:05 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 17:05:05 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 17:05:05 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 17:05:05 Success
+Tue, 05 Jun 2018 17:05:05 local address: 10.188.34.19
+Tue, 05 Jun 2018 17:05:05 Last status: Done
+Tue, 05 Jun 2018 17:05:05 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 17:05:05 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 17:05:05 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 17:05:06 Success
+Tue, 05 Jun 2018 17:05:47 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 17:05:47 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 17:05:47 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 17:05:47 connect to proxy result: 0
+Tue, 05 Jun 2018 17:05:47 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 17:05:47 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 17:05:47 re-getting the computer idn
+Tue, 05 Jun 2018 17:05:47 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 17:05:47 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 17:05:47 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 17:05:48 Success
+Tue, 05 Jun 2018 17:05:48 local address: 10.188.34.19
+Tue, 05 Jun 2018 17:05:48 Last status: Done
+Tue, 05 Jun 2018 17:05:48 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 17:05:48 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 17:05:48 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 17:05:48 Success
+Tue, 05 Jun 2018 17:05:49 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 17:05:49 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 17:05:49 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 17:05:49 connect to proxy result: 0
+Tue, 05 Jun 2018 17:05:49 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 17:05:49 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 17:05:49 re-getting the computer idn
+Tue, 05 Jun 2018 17:05:49 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 17:05:49 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 17:05:49 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 17:05:49 Success
+Tue, 05 Jun 2018 17:05:49 local address: 10.188.34.19
+Tue, 05 Jun 2018 17:05:49 Last status: Done
+Tue, 05 Jun 2018 17:05:49 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 17:05:49 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 17:05:49 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 17:05:50 Success
+Tue, 05 Jun 2018 18:03:35 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 18:03:35 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 18:03:35 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 18:03:35 connect to proxy result: 0
+Tue, 05 Jun 2018 18:03:35 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 18:03:35 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 18:03:35 re-getting the computer idn
+Tue, 05 Jun 2018 18:03:35 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 18:03:35 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 18:03:35 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 18:03:36 Success
+Tue, 05 Jun 2018 18:03:36 local address: 10.188.34.19
+Tue, 05 Jun 2018 18:03:36 Last status: Done
+Tue, 05 Jun 2018 18:03:36 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 18:03:36 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 18:03:36 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 18:03:36 Success
+Tue, 05 Jun 2018 18:03:37 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 18:03:37 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 18:03:37 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 18:03:37 connect to proxy result: 0
+Tue, 05 Jun 2018 18:03:37 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 18:03:37 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 18:03:37 re-getting the computer idn
+Tue, 05 Jun 2018 18:03:37 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 18:03:37 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 18:03:37 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 18:03:37 Success
+Tue, 05 Jun 2018 18:03:37 local address: 10.188.34.19
+Tue, 05 Jun 2018 18:03:37 Last status: Done
+Tue, 05 Jun 2018 18:03:37 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 18:03:37 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 18:03:37 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 18:03:38 Success
+Tue, 05 Jun 2018 18:03:39 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 18:03:39 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 18:03:39 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 18:03:39 connect to proxy result: 0
+Tue, 05 Jun 2018 18:03:39 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 18:03:39 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 18:03:39 re-getting the computer idn
+Tue, 05 Jun 2018 18:03:39 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 18:03:39 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 18:03:39 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 18:03:39 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 18:03:39 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 18:03:39 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 18:03:39 connect to proxy result: 0
+Tue, 05 Jun 2018 18:03:39 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 18:03:39 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 18:03:39 re-getting the computer idn
+Tue, 05 Jun 2018 18:03:39 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 18:03:39 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 18:03:39 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 18:03:40 Success
+Tue, 05 Jun 2018 18:03:40 local address: 10.188.34.19
+Tue, 05 Jun 2018 18:03:40 Last status: Done
+Tue, 05 Jun 2018 18:03:40 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 18:03:40 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 18:03:40 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 18:03:40 Success
+Tue, 05 Jun 2018 18:03:40 local address: 10.188.34.19
+Tue, 05 Jun 2018 18:03:40 Last status: Done
+Tue, 05 Jun 2018 18:03:40 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 18:03:40 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 18:03:40 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 18:03:40 Success
+Tue, 05 Jun 2018 18:03:40 Success
+Tue, 05 Jun 2018 18:03:41 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 18:03:41 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 18:03:41 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 18:03:41 connect to proxy result: 0
+Tue, 05 Jun 2018 18:03:41 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 18:03:41 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 18:03:41 re-getting the computer idn
+Tue, 05 Jun 2018 18:03:41 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 18:03:41 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 18:03:41 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 18:03:41 Success
+Tue, 05 Jun 2018 18:03:41 local address: 10.188.34.19
+Tue, 05 Jun 2018 18:03:41 Last status: Done
+Tue, 05 Jun 2018 18:03:41 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 18:03:41 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 18:03:41 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 18:03:42 Success
+Tue, 05 Jun 2018 18:27:59 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 18:27:59 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 18:27:59 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 18:27:59 connect to proxy result: 0
+Tue, 05 Jun 2018 18:27:59 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 18:27:59 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 18:27:59 re-getting the computer idn
+Tue, 05 Jun 2018 18:27:59 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 18:27:59 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 18:27:59 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 18:28:00 Success
+Tue, 05 Jun 2018 18:28:00 local address: 10.188.34.19
+Tue, 05 Jun 2018 18:28:00 Last status: Done
+Tue, 05 Jun 2018 18:28:00 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 18:28:00 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 18:28:00 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 18:28:01 Success
+Tue, 05 Jun 2018 18:28:05 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 18:28:05 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 18:28:05 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 18:28:05 connect to proxy result: 0
+Tue, 05 Jun 2018 18:28:05 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 18:28:05 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 18:28:05 re-getting the computer idn
+Tue, 05 Jun 2018 18:28:05 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 18:28:05 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 18:28:05 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 18:28:06 Success
+Tue, 05 Jun 2018 18:28:06 local address: 10.188.34.19
+Tue, 05 Jun 2018 18:28:06 Last status: Done
+Tue, 05 Jun 2018 18:28:06 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 18:28:06 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 18:28:06 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 18:28:07 Success
+Tue, 05 Jun 2018 23:01:55 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 23:01:55 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 23:01:55 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 23:01:55 connect to proxy result: 0
+Tue, 05 Jun 2018 23:01:55 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 23:01:55 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 23:01:55 re-getting the computer idn
+Tue, 05 Jun 2018 23:01:55 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 23:01:55 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 23:01:55 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 23:01:55 Success
+Tue, 05 Jun 2018 23:01:55 local address: 10.188.34.19
+Tue, 05 Jun 2018 23:01:55 Last status: Done
+Tue, 05 Jun 2018 23:01:55 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 23:01:55 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 23:01:55 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 23:01:56 Success
+Tue, 05 Jun 2018 23:01:56 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 23:01:56 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 23:01:56 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 23:01:56 connect to proxy result: 0
+Tue, 05 Jun 2018 23:01:56 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 23:01:56 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 23:01:56 re-getting the computer idn
+Tue, 05 Jun 2018 23:01:56 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 23:01:56 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 23:01:56 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 23:01:57 Success
+Tue, 05 Jun 2018 23:01:57 local address: 10.188.34.19
+Tue, 05 Jun 2018 23:01:57 Last status: Done
+Tue, 05 Jun 2018 23:01:57 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 23:01:57 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 23:01:57 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 23:01:57 Success
+Tue, 05 Jun 2018 23:01:58 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 23:01:58 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 23:01:58 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 23:01:58 connect to proxy result: 0
+Tue, 05 Jun 2018 23:01:58 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 23:01:58 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 23:01:58 re-getting the computer idn
+Tue, 05 Jun 2018 23:01:58 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 23:01:58 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 23:01:58 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 23:01:58 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 23:01:58 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 23:01:58 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 23:01:58 connect to proxy result: 0
+Tue, 05 Jun 2018 23:01:58 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 23:01:58 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 23:01:58 re-getting the computer idn
+Tue, 05 Jun 2018 23:01:58 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 23:01:58 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 23:01:58 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 23:01:59 Success
+Tue, 05 Jun 2018 23:01:59 local address: 10.188.34.19
+Tue, 05 Jun 2018 23:01:59 Last status: Done
+Tue, 05 Jun 2018 23:01:59 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 23:01:59 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 23:01:59 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 23:02:00 Success
+Tue, 05 Jun 2018 23:02:00 local address: 10.188.34.19
+Tue, 05 Jun 2018 23:02:00 Last status: Done
+Tue, 05 Jun 2018 23:02:00 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 23:02:00 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 23:02:00 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 23:02:00 Success
+Tue, 05 Jun 2018 23:02:00 Success
+Tue, 05 Jun 2018 23:02:01 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 23:02:01 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 23:02:01 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 23:02:01 connect to proxy result: 0
+Tue, 05 Jun 2018 23:02:01 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 23:02:01 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 23:02:01 re-getting the computer idn
+Tue, 05 Jun 2018 23:02:01 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 23:02:01 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 23:02:01 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 23:02:02 Success
+Tue, 05 Jun 2018 23:02:02 local address: 10.188.34.19
+Tue, 05 Jun 2018 23:02:02 Last status: Done
+Tue, 05 Jun 2018 23:02:02 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 23:02:02 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 23:02:02 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 23:02:02 Success
+Tue, 05 Jun 2018 23:34:51 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 23:34:51 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 23:34:51 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 23:34:51 connect to proxy result: 0
+Tue, 05 Jun 2018 23:34:51 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 23:34:51 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 23:34:51 re-getting the computer idn
+Tue, 05 Jun 2018 23:34:51 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 23:34:51 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 23:34:51 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 23:34:52 Success
+Tue, 05 Jun 2018 23:34:52 local address: 10.188.34.19
+Tue, 05 Jun 2018 23:34:52 Last status: Done
+Tue, 05 Jun 2018 23:34:52 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 23:34:52 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 23:34:52 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 23:34:52 Success
+Tue, 05 Jun 2018 23:34:53 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 05 Jun 2018 23:34:53 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 05 Jun 2018 23:34:53 Attempting to connect to proxyhost
+Tue, 05 Jun 2018 23:34:53 connect to proxy result: 0
+Tue, 05 Jun 2018 23:34:53 Using proxyhost to communicate with the core
+Tue, 05 Jun 2018 23:34:53 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 05 Jun 2018 23:34:53 re-getting the computer idn
+Tue, 05 Jun 2018 23:34:53 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 05 Jun 2018 23:34:53 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 23:34:53 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 05 Jun 2018 23:34:53 Success
+Tue, 05 Jun 2018 23:34:53 local address: 10.188.34.19
+Tue, 05 Jun 2018 23:34:53 Last status: Done
+Tue, 05 Jun 2018 23:34:53 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 05 Jun 2018 23:34:53 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 23:34:53 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 05 Jun 2018 23:34:54 Success
+Wed, 06 Jun 2018 17:05:04 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 17:05:04 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 17:05:04 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 17:05:04 connect to proxy result: 0
+Wed, 06 Jun 2018 17:05:04 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 17:05:04 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 17:05:04 re-getting the computer idn
+Wed, 06 Jun 2018 17:05:04 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 17:05:04 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 17:05:04 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 17:05:05 Success
+Wed, 06 Jun 2018 17:05:05 local address: 10.188.34.19
+Wed, 06 Jun 2018 17:05:05 Last status: Done
+Wed, 06 Jun 2018 17:05:05 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 17:05:05 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 17:05:05 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 17:05:05 Success
+Wed, 06 Jun 2018 17:05:05 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 17:05:05 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 17:05:05 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 17:05:05 connect to proxy result: 0
+Wed, 06 Jun 2018 17:05:05 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 17:05:05 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 17:05:05 re-getting the computer idn
+Wed, 06 Jun 2018 17:05:05 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 17:05:05 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 17:05:05 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 17:05:06 Success
+Wed, 06 Jun 2018 17:05:06 local address: 10.188.34.19
+Wed, 06 Jun 2018 17:05:06 Last status: Done
+Wed, 06 Jun 2018 17:05:06 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 17:05:06 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 17:05:06 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 17:05:06 Success
+Wed, 06 Jun 2018 17:05:07 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 17:05:07 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 17:05:07 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 17:05:07 connect to proxy result: 0
+Wed, 06 Jun 2018 17:05:07 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 17:05:07 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 17:05:07 re-getting the computer idn
+Wed, 06 Jun 2018 17:05:07 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 17:05:07 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 17:05:07 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 17:05:07 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 17:05:07 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 17:05:07 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 17:05:07 connect to proxy result: 0
+Wed, 06 Jun 2018 17:05:07 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 17:05:07 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 17:05:07 re-getting the computer idn
+Wed, 06 Jun 2018 17:05:07 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 17:05:07 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 17:05:07 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 17:05:08 Success
+Wed, 06 Jun 2018 17:05:08 local address: 10.188.34.19
+Wed, 06 Jun 2018 17:05:08 Last status: Done
+Wed, 06 Jun 2018 17:05:08 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 17:05:08 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 17:05:08 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 17:05:08 Success
+Wed, 06 Jun 2018 17:05:08 local address: 10.188.34.19
+Wed, 06 Jun 2018 17:05:08 Last status: Done
+Wed, 06 Jun 2018 17:05:08 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 17:05:08 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 17:05:08 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 17:05:09 Success
+Wed, 06 Jun 2018 17:05:09 Success
+Wed, 06 Jun 2018 17:05:09 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 17:05:09 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 17:05:09 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 17:05:09 connect to proxy result: 0
+Wed, 06 Jun 2018 17:05:09 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 17:05:09 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 17:05:09 re-getting the computer idn
+Wed, 06 Jun 2018 17:05:09 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 17:05:09 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 17:05:09 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 17:05:10 Success
+Wed, 06 Jun 2018 17:05:10 local address: 10.188.34.19
+Wed, 06 Jun 2018 17:05:10 Last status: Done
+Wed, 06 Jun 2018 17:05:10 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 17:05:10 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 17:05:10 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 17:05:10 Success
+Wed, 06 Jun 2018 17:05:54 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 17:05:54 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 17:05:54 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 17:05:54 connect to proxy result: 0
+Wed, 06 Jun 2018 17:05:54 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 17:05:54 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 17:05:54 re-getting the computer idn
+Wed, 06 Jun 2018 17:05:54 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 17:05:54 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 17:05:54 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 17:05:55 Success
+Wed, 06 Jun 2018 17:05:55 local address: 10.188.34.19
+Wed, 06 Jun 2018 17:05:55 Last status: Done
+Wed, 06 Jun 2018 17:05:55 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 17:05:55 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 17:05:55 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 17:05:55 Success
+Wed, 06 Jun 2018 17:05:55 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 17:05:55 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 17:05:55 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 17:05:55 connect to proxy result: 0
+Wed, 06 Jun 2018 17:05:55 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 17:05:55 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 17:05:55 re-getting the computer idn
+Wed, 06 Jun 2018 17:05:55 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 17:05:55 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 17:05:55 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 17:05:56 Success
+Wed, 06 Jun 2018 17:05:56 local address: 10.188.34.19
+Wed, 06 Jun 2018 17:05:56 Last status: Done
+Wed, 06 Jun 2018 17:05:56 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 17:05:56 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 17:05:56 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 17:05:56 Success
+Wed, 06 Jun 2018 18:03:37 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 18:03:37 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 18:03:37 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 18:03:37 connect to proxy result: 0
+Wed, 06 Jun 2018 18:03:37 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 18:03:37 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 18:03:37 re-getting the computer idn
+Wed, 06 Jun 2018 18:03:37 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 18:03:37 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 18:03:37 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 18:03:38 Success
+Wed, 06 Jun 2018 18:03:38 local address: 10.188.34.19
+Wed, 06 Jun 2018 18:03:38 Last status: Done
+Wed, 06 Jun 2018 18:03:38 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 18:03:38 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 18:03:38 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 18:03:38 Success
+Wed, 06 Jun 2018 18:03:38 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 18:03:38 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 18:03:38 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 18:03:38 connect to proxy result: 0
+Wed, 06 Jun 2018 18:03:38 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 18:03:38 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 18:03:38 re-getting the computer idn
+Wed, 06 Jun 2018 18:03:38 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 18:03:38 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 18:03:38 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 18:03:39 Success
+Wed, 06 Jun 2018 18:03:39 local address: 10.188.34.19
+Wed, 06 Jun 2018 18:03:39 Last status: Done
+Wed, 06 Jun 2018 18:03:39 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 18:03:39 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 18:03:39 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 18:03:39 Success
+Wed, 06 Jun 2018 18:03:41 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 18:03:41 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 18:03:41 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 18:03:41 connect to proxy result: 0
+Wed, 06 Jun 2018 18:03:41 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 18:03:41 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 18:03:41 re-getting the computer idn
+Wed, 06 Jun 2018 18:03:41 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 18:03:41 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 18:03:41 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 18:03:41 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 18:03:41 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 18:03:41 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 18:03:41 connect to proxy result: 0
+Wed, 06 Jun 2018 18:03:41 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 18:03:41 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 18:03:41 re-getting the computer idn
+Wed, 06 Jun 2018 18:03:41 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 18:03:41 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 18:03:41 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 18:03:41 Success
+Wed, 06 Jun 2018 18:03:41 local address: 10.188.34.19
+Wed, 06 Jun 2018 18:03:41 Last status: Done
+Wed, 06 Jun 2018 18:03:41 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 18:03:41 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 18:03:41 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 18:03:42 Success
+Wed, 06 Jun 2018 18:03:42 local address: 10.188.34.19
+Wed, 06 Jun 2018 18:03:42 Last status: Done
+Wed, 06 Jun 2018 18:03:42 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 18:03:42 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 18:03:42 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 18:03:43 Success
+Wed, 06 Jun 2018 18:03:43 Success
+Wed, 06 Jun 2018 18:03:43 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 18:03:43 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 18:03:43 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 18:03:43 connect to proxy result: 0
+Wed, 06 Jun 2018 18:03:43 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 18:03:43 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 18:03:43 re-getting the computer idn
+Wed, 06 Jun 2018 18:03:43 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 18:03:43 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 18:03:43 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 18:03:43 Success
+Wed, 06 Jun 2018 18:03:43 local address: 10.188.34.19
+Wed, 06 Jun 2018 18:03:43 Last status: Done
+Wed, 06 Jun 2018 18:03:43 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 18:03:43 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 18:03:43 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 18:03:44 Success
+Wed, 06 Jun 2018 18:05:59 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 18:05:59 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 18:05:59 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 18:05:59 connect to proxy result: 0
+Wed, 06 Jun 2018 18:05:59 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 18:05:59 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 18:05:59 re-getting the computer idn
+Wed, 06 Jun 2018 18:05:59 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 18:05:59 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 18:05:59 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 18:06:00 Success
+Wed, 06 Jun 2018 18:06:00 local address: 10.188.34.19
+Wed, 06 Jun 2018 18:06:00 Last status: Done
+Wed, 06 Jun 2018 18:06:00 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 18:06:00 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 18:06:00 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 18:06:00 Success
+Wed, 06 Jun 2018 18:06:00 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 18:06:00 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 18:06:00 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 18:06:00 connect to proxy result: 0
+Wed, 06 Jun 2018 18:06:00 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 18:06:00 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 18:06:00 re-getting the computer idn
+Wed, 06 Jun 2018 18:06:00 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 18:06:00 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 18:06:00 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 18:06:01 Success
+Wed, 06 Jun 2018 18:06:01 local address: 10.188.34.19
+Wed, 06 Jun 2018 18:06:01 Last status: Done
+Wed, 06 Jun 2018 18:06:01 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 18:06:01 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 18:06:01 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 18:06:01 Success
+Wed, 06 Jun 2018 23:02:03 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 23:02:03 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 23:02:03 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 23:02:03 connect to proxy result: 0
+Wed, 06 Jun 2018 23:02:03 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 23:02:03 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 23:02:03 re-getting the computer idn
+Wed, 06 Jun 2018 23:02:03 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 23:02:03 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 23:02:03 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 23:02:04 Success
+Wed, 06 Jun 2018 23:02:04 local address: 10.188.34.19
+Wed, 06 Jun 2018 23:02:04 Last status: Done
+Wed, 06 Jun 2018 23:02:04 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 23:02:04 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 23:02:04 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 23:02:05 Success
+Wed, 06 Jun 2018 23:02:05 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 23:02:05 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 23:02:05 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 23:02:05 connect to proxy result: 0
+Wed, 06 Jun 2018 23:02:05 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 23:02:05 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 23:02:05 re-getting the computer idn
+Wed, 06 Jun 2018 23:02:05 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 23:02:05 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 23:02:05 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 23:02:06 Success
+Wed, 06 Jun 2018 23:02:06 local address: 10.188.34.19
+Wed, 06 Jun 2018 23:02:06 Last status: Done
+Wed, 06 Jun 2018 23:02:06 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 23:02:06 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 23:02:06 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 23:02:06 Success
+Wed, 06 Jun 2018 23:02:07 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 23:02:07 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 23:02:07 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 23:02:07 connect to proxy result: 0
+Wed, 06 Jun 2018 23:02:07 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 23:02:07 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 23:02:07 re-getting the computer idn
+Wed, 06 Jun 2018 23:02:07 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 23:02:07 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 23:02:07 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 23:02:07 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 23:02:07 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 23:02:07 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 23:02:07 connect to proxy result: 0
+Wed, 06 Jun 2018 23:02:07 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 23:02:07 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 23:02:07 re-getting the computer idn
+Wed, 06 Jun 2018 23:02:07 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 23:02:07 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 23:02:07 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 23:02:08 Success
+Wed, 06 Jun 2018 23:02:08 local address: 10.188.34.19
+Wed, 06 Jun 2018 23:02:08 Last status: Done
+Wed, 06 Jun 2018 23:02:08 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 23:02:08 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 23:02:08 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 23:02:09 Success
+Wed, 06 Jun 2018 23:02:09 local address: 10.188.34.19
+Wed, 06 Jun 2018 23:02:09 Last status: Done
+Wed, 06 Jun 2018 23:02:09 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 23:02:09 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 23:02:09 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 23:02:09 Success
+Wed, 06 Jun 2018 23:02:09 Success
+Wed, 06 Jun 2018 23:02:10 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 23:02:10 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 23:02:10 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 23:02:10 connect to proxy result: 0
+Wed, 06 Jun 2018 23:02:10 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 23:02:10 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 23:02:10 re-getting the computer idn
+Wed, 06 Jun 2018 23:02:10 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 23:02:10 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 23:02:10 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 23:02:11 Success
+Wed, 06 Jun 2018 23:02:11 local address: 10.188.34.19
+Wed, 06 Jun 2018 23:02:11 Last status: Done
+Wed, 06 Jun 2018 23:02:11 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 23:02:11 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 23:02:11 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 23:02:11 Success
+Wed, 06 Jun 2018 23:41:45 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 23:41:45 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 23:41:45 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 23:41:45 connect to proxy result: 0
+Wed, 06 Jun 2018 23:41:45 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 23:41:45 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 23:41:45 re-getting the computer idn
+Wed, 06 Jun 2018 23:41:45 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 23:41:45 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 23:41:45 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 23:41:46 Success
+Wed, 06 Jun 2018 23:41:46 local address: 10.188.34.19
+Wed, 06 Jun 2018 23:41:46 Last status: Done
+Wed, 06 Jun 2018 23:41:46 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 23:41:46 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 23:41:46 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 23:41:46 Success
+Wed, 06 Jun 2018 23:41:47 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Wed, 06 Jun 2018 23:41:47 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Wed, 06 Jun 2018 23:41:47 Attempting to connect to proxyhost
+Wed, 06 Jun 2018 23:41:47 connect to proxy result: 0
+Wed, 06 Jun 2018 23:41:47 Using proxyhost to communicate with the core
+Wed, 06 Jun 2018 23:41:47 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Wed, 06 Jun 2018 23:41:47 re-getting the computer idn
+Wed, 06 Jun 2018 23:41:47 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Wed, 06 Jun 2018 23:41:47 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 23:41:47 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Wed, 06 Jun 2018 23:41:47 Success
+Wed, 06 Jun 2018 23:41:47 local address: 10.188.34.19
+Wed, 06 Jun 2018 23:41:47 Last status: Done
+Wed, 06 Jun 2018 23:41:47 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Wed, 06 Jun 2018 23:41:47 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 23:41:47 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Wed, 06 Jun 2018 23:41:48 Success
+Thu, 07 Jun 2018 17:05:09 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Thu, 07 Jun 2018 17:05:09 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Thu, 07 Jun 2018 17:05:09 Attempting to connect to proxyhost
+Thu, 07 Jun 2018 17:05:09 connect to proxy result: 0
+Thu, 07 Jun 2018 17:05:09 Using proxyhost to communicate with the core
+Thu, 07 Jun 2018 17:05:09 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Thu, 07 Jun 2018 17:05:09 re-getting the computer idn
+Thu, 07 Jun 2018 17:05:09 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Thu, 07 Jun 2018 17:05:09 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 17:05:09 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 17:05:10 Success
+Thu, 07 Jun 2018 17:05:10 local address: 10.188.34.19
+Thu, 07 Jun 2018 17:05:10 Last status: Done
+Thu, 07 Jun 2018 17:05:10 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Thu, 07 Jun 2018 17:05:10 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 17:05:10 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 17:05:10 Success
+Thu, 07 Jun 2018 17:05:10 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Thu, 07 Jun 2018 17:05:10 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Thu, 07 Jun 2018 17:05:10 Attempting to connect to proxyhost
+Thu, 07 Jun 2018 17:05:10 connect to proxy result: 0
+Thu, 07 Jun 2018 17:05:10 Using proxyhost to communicate with the core
+Thu, 07 Jun 2018 17:05:10 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Thu, 07 Jun 2018 17:05:10 re-getting the computer idn
+Thu, 07 Jun 2018 17:05:10 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Thu, 07 Jun 2018 17:05:10 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 17:05:10 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 17:05:11 Success
+Thu, 07 Jun 2018 17:05:11 local address: 10.188.34.19
+Thu, 07 Jun 2018 17:05:11 Last status: Done
+Thu, 07 Jun 2018 17:05:11 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Thu, 07 Jun 2018 17:05:11 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 17:05:11 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 17:05:12 Success
+Thu, 07 Jun 2018 17:05:13 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Thu, 07 Jun 2018 17:05:13 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Thu, 07 Jun 2018 17:05:13 Attempting to connect to proxyhost
+Thu, 07 Jun 2018 17:05:13 connect to proxy result: 0
+Thu, 07 Jun 2018 17:05:13 Using proxyhost to communicate with the core
+Thu, 07 Jun 2018 17:05:13 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Thu, 07 Jun 2018 17:05:13 re-getting the computer idn
+Thu, 07 Jun 2018 17:05:13 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Thu, 07 Jun 2018 17:05:13 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 17:05:13 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 17:05:13 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Thu, 07 Jun 2018 17:05:13 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Thu, 07 Jun 2018 17:05:13 Attempting to connect to proxyhost
+Thu, 07 Jun 2018 17:05:13 connect to proxy result: 0
+Thu, 07 Jun 2018 17:05:13 Using proxyhost to communicate with the core
+Thu, 07 Jun 2018 17:05:13 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Thu, 07 Jun 2018 17:05:13 re-getting the computer idn
+Thu, 07 Jun 2018 17:05:13 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Thu, 07 Jun 2018 17:05:13 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 17:05:13 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 17:05:14 Success
+Thu, 07 Jun 2018 17:05:14 local address: 10.188.34.19
+Thu, 07 Jun 2018 17:05:14 Last status: Done
+Thu, 07 Jun 2018 17:05:14 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Thu, 07 Jun 2018 17:05:14 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 17:05:14 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 17:05:14 Success
+Thu, 07 Jun 2018 17:05:14 local address: 10.188.34.19
+Thu, 07 Jun 2018 17:05:14 Last status: Done
+Thu, 07 Jun 2018 17:05:14 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Thu, 07 Jun 2018 17:05:14 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 17:05:14 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 17:05:14 Success
+Thu, 07 Jun 2018 17:05:15 Success
+Thu, 07 Jun 2018 17:05:16 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Thu, 07 Jun 2018 17:05:16 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Thu, 07 Jun 2018 17:05:16 Attempting to connect to proxyhost
+Thu, 07 Jun 2018 17:05:16 connect to proxy result: 0
+Thu, 07 Jun 2018 17:05:16 Using proxyhost to communicate with the core
+Thu, 07 Jun 2018 17:05:16 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Thu, 07 Jun 2018 17:05:16 re-getting the computer idn
+Thu, 07 Jun 2018 17:05:16 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Thu, 07 Jun 2018 17:05:16 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 17:05:16 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 17:05:16 Success
+Thu, 07 Jun 2018 17:05:16 local address: 10.188.34.19
+Thu, 07 Jun 2018 17:05:16 Last status: Done
+Thu, 07 Jun 2018 17:05:16 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Thu, 07 Jun 2018 17:05:16 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 17:05:16 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 17:05:17 Success
+Thu, 07 Jun 2018 17:06:00 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Thu, 07 Jun 2018 17:06:00 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Thu, 07 Jun 2018 17:06:00 Attempting to connect to proxyhost
+Thu, 07 Jun 2018 17:06:00 connect to proxy result: 0
+Thu, 07 Jun 2018 17:06:00 Using proxyhost to communicate with the core
+Thu, 07 Jun 2018 17:06:00 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Thu, 07 Jun 2018 17:06:00 re-getting the computer idn
+Thu, 07 Jun 2018 17:06:00 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Thu, 07 Jun 2018 17:06:00 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 17:06:00 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 17:06:01 Success
+Thu, 07 Jun 2018 17:06:01 local address: 10.188.34.19
+Thu, 07 Jun 2018 17:06:01 Last status: Done
+Thu, 07 Jun 2018 17:06:01 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Thu, 07 Jun 2018 17:06:01 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 17:06:01 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 17:06:01 Success
+Thu, 07 Jun 2018 17:06:02 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Thu, 07 Jun 2018 17:06:02 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Thu, 07 Jun 2018 17:06:02 Attempting to connect to proxyhost
+Thu, 07 Jun 2018 17:06:02 connect to proxy result: 0
+Thu, 07 Jun 2018 17:06:02 Using proxyhost to communicate with the core
+Thu, 07 Jun 2018 17:06:02 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Thu, 07 Jun 2018 17:06:02 re-getting the computer idn
+Thu, 07 Jun 2018 17:06:02 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Thu, 07 Jun 2018 17:06:02 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 17:06:02 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 17:06:02 Success
+Thu, 07 Jun 2018 17:06:02 local address: 10.188.34.19
+Thu, 07 Jun 2018 17:06:02 Last status: Done
+Thu, 07 Jun 2018 17:06:02 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Thu, 07 Jun 2018 17:06:02 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 17:06:02 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 17:06:03 Success
+Thu, 07 Jun 2018 18:03:37 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Thu, 07 Jun 2018 18:03:37 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Thu, 07 Jun 2018 18:03:37 Attempting to connect to proxyhost
+Thu, 07 Jun 2018 18:03:37 connect to proxy result: 0
+Thu, 07 Jun 2018 18:03:37 Using proxyhost to communicate with the core
+Thu, 07 Jun 2018 18:03:37 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Thu, 07 Jun 2018 18:03:37 re-getting the computer idn
+Thu, 07 Jun 2018 18:03:37 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Thu, 07 Jun 2018 18:03:37 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 18:03:37 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 18:03:38 Success
+Thu, 07 Jun 2018 18:03:38 local address: 10.188.34.19
+Thu, 07 Jun 2018 18:03:38 Last status: Done
+Thu, 07 Jun 2018 18:03:38 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Thu, 07 Jun 2018 18:03:38 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 18:03:38 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 18:03:38 Success
+Thu, 07 Jun 2018 18:03:38 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Thu, 07 Jun 2018 18:03:38 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Thu, 07 Jun 2018 18:03:38 Attempting to connect to proxyhost
+Thu, 07 Jun 2018 18:03:38 connect to proxy result: 0
+Thu, 07 Jun 2018 18:03:38 Using proxyhost to communicate with the core
+Thu, 07 Jun 2018 18:03:38 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Thu, 07 Jun 2018 18:03:38 re-getting the computer idn
+Thu, 07 Jun 2018 18:03:38 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Thu, 07 Jun 2018 18:03:38 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 18:03:38 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 18:03:39 Success
+Thu, 07 Jun 2018 18:03:39 local address: 10.188.34.19
+Thu, 07 Jun 2018 18:03:39 Last status: Done
+Thu, 07 Jun 2018 18:03:39 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Thu, 07 Jun 2018 18:03:39 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 18:03:39 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 18:03:39 Success
+Thu, 07 Jun 2018 18:03:40 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Thu, 07 Jun 2018 18:03:40 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Thu, 07 Jun 2018 18:03:40 Attempting to connect to proxyhost
+Thu, 07 Jun 2018 18:03:40 connect to proxy result: 0
+Thu, 07 Jun 2018 18:03:40 Using proxyhost to communicate with the core
+Thu, 07 Jun 2018 18:03:40 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Thu, 07 Jun 2018 18:03:40 re-getting the computer idn
+Thu, 07 Jun 2018 18:03:40 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Thu, 07 Jun 2018 18:03:40 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 18:03:40 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 18:03:40 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Thu, 07 Jun 2018 18:03:40 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Thu, 07 Jun 2018 18:03:40 Attempting to connect to proxyhost
+Thu, 07 Jun 2018 18:03:40 connect to proxy result: 0
+Thu, 07 Jun 2018 18:03:40 Using proxyhost to communicate with the core
+Thu, 07 Jun 2018 18:03:40 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Thu, 07 Jun 2018 18:03:40 re-getting the computer idn
+Thu, 07 Jun 2018 18:03:40 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Thu, 07 Jun 2018 18:03:40 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 18:03:40 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 18:03:41 Success
+Thu, 07 Jun 2018 18:03:41 local address: 10.188.34.19
+Thu, 07 Jun 2018 18:03:41 Last status: Done
+Thu, 07 Jun 2018 18:03:41 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Thu, 07 Jun 2018 18:03:41 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 18:03:41 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 18:03:41 Success
+Thu, 07 Jun 2018 18:03:41 local address: 10.188.34.19
+Thu, 07 Jun 2018 18:03:41 Last status: Done
+Thu, 07 Jun 2018 18:03:41 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Thu, 07 Jun 2018 18:03:41 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 18:03:41 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 18:03:42 Success
+Thu, 07 Jun 2018 18:03:42 Success
+Thu, 07 Jun 2018 18:03:43 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Thu, 07 Jun 2018 18:03:43 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Thu, 07 Jun 2018 18:03:43 Attempting to connect to proxyhost
+Thu, 07 Jun 2018 18:03:43 connect to proxy result: 0
+Thu, 07 Jun 2018 18:03:43 Using proxyhost to communicate with the core
+Thu, 07 Jun 2018 18:03:43 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Thu, 07 Jun 2018 18:03:43 re-getting the computer idn
+Thu, 07 Jun 2018 18:03:43 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Thu, 07 Jun 2018 18:03:43 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 18:03:43 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 18:03:43 Success
+Thu, 07 Jun 2018 18:03:43 local address: 10.188.34.19
+Thu, 07 Jun 2018 18:03:43 Last status: Done
+Thu, 07 Jun 2018 18:03:43 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Thu, 07 Jun 2018 18:03:43 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 18:03:43 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 18:03:44 Success
+Thu, 07 Jun 2018 18:05:12 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Thu, 07 Jun 2018 18:05:12 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Thu, 07 Jun 2018 18:05:12 Attempting to connect to proxyhost
+Thu, 07 Jun 2018 18:05:12 connect to proxy result: 0
+Thu, 07 Jun 2018 18:05:12 Using proxyhost to communicate with the core
+Thu, 07 Jun 2018 18:05:12 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Thu, 07 Jun 2018 18:05:12 re-getting the computer idn
+Thu, 07 Jun 2018 18:05:12 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Thu, 07 Jun 2018 18:05:12 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 18:05:12 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 18:05:12 Success
+Thu, 07 Jun 2018 18:05:12 local address: 10.188.34.19
+Thu, 07 Jun 2018 18:05:12 Last status: Done
+Thu, 07 Jun 2018 18:05:12 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Thu, 07 Jun 2018 18:05:12 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 18:05:12 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 18:05:13 Success
+Thu, 07 Jun 2018 18:05:13 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Thu, 07 Jun 2018 18:05:13 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Thu, 07 Jun 2018 18:05:13 Attempting to connect to proxyhost
+Thu, 07 Jun 2018 18:05:13 connect to proxy result: 0
+Thu, 07 Jun 2018 18:05:13 Using proxyhost to communicate with the core
+Thu, 07 Jun 2018 18:05:13 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Thu, 07 Jun 2018 18:05:13 re-getting the computer idn
+Thu, 07 Jun 2018 18:05:13 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Thu, 07 Jun 2018 18:05:13 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 18:05:13 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Thu, 07 Jun 2018 18:05:14 Success
+Thu, 07 Jun 2018 18:05:14 local address: 10.188.34.19
+Thu, 07 Jun 2018 18:05:14 Last status: Done
+Thu, 07 Jun 2018 18:05:14 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Thu, 07 Jun 2018 18:05:14 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 18:05:14 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Thu, 07 Jun 2018 18:05:14 Success
+Mon, 11 Jun 2018 17:05:30 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 17:05:30 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 17:05:30 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 17:05:30 connect to proxy result: 0
+Mon, 11 Jun 2018 17:05:30 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 17:05:30 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 17:05:30 re-getting the computer idn
+Mon, 11 Jun 2018 17:05:30 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 17:05:30 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 17:05:30 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 17:05:31 Success
+Mon, 11 Jun 2018 17:05:31 local address: 10.188.34.19
+Mon, 11 Jun 2018 17:05:31 Last status: Done
+Mon, 11 Jun 2018 17:05:31 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 17:05:31 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 17:05:31 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 17:05:31 Success
+Mon, 11 Jun 2018 17:05:31 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 17:05:31 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 17:05:31 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 17:05:31 connect to proxy result: 0
+Mon, 11 Jun 2018 17:05:31 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 17:05:31 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 17:05:31 re-getting the computer idn
+Mon, 11 Jun 2018 17:05:31 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 17:05:31 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 17:05:31 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 17:05:32 Success
+Mon, 11 Jun 2018 17:05:32 local address: 10.188.34.19
+Mon, 11 Jun 2018 17:05:32 Last status: Done
+Mon, 11 Jun 2018 17:05:32 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 17:05:32 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 17:05:32 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 17:05:32 Success
+Mon, 11 Jun 2018 17:05:34 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 17:05:34 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 17:05:34 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 17:05:34 connect to proxy result: 0
+Mon, 11 Jun 2018 17:05:34 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 17:05:34 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 17:05:34 re-getting the computer idn
+Mon, 11 Jun 2018 17:05:34 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 17:05:34 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 17:05:34 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 17:05:34 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 17:05:34 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 17:05:34 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 17:05:34 connect to proxy result: 0
+Mon, 11 Jun 2018 17:05:34 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 17:05:34 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 17:05:34 re-getting the computer idn
+Mon, 11 Jun 2018 17:05:34 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 17:05:34 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 17:05:34 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 17:05:34 Success
+Mon, 11 Jun 2018 17:05:34 local address: 10.188.34.19
+Mon, 11 Jun 2018 17:05:34 Last status: Done
+Mon, 11 Jun 2018 17:05:34 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 17:05:34 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 17:05:34 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 17:05:35 Success
+Mon, 11 Jun 2018 17:05:35 local address: 10.188.34.19
+Mon, 11 Jun 2018 17:05:35 Last status: Done
+Mon, 11 Jun 2018 17:05:35 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 17:05:35 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 17:05:35 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 17:05:35 Success
+Mon, 11 Jun 2018 17:05:35 Success
+Mon, 11 Jun 2018 17:05:37 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 17:05:37 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 17:05:37 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 17:05:37 connect to proxy result: 0
+Mon, 11 Jun 2018 17:05:37 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 17:05:37 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 17:05:37 re-getting the computer idn
+Mon, 11 Jun 2018 17:05:37 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 17:05:37 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 17:05:37 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 17:05:37 Success
+Mon, 11 Jun 2018 17:05:37 local address: 10.188.34.19
+Mon, 11 Jun 2018 17:05:37 Last status: Done
+Mon, 11 Jun 2018 17:05:37 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 17:05:37 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 17:05:37 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 17:05:38 Success
+Mon, 11 Jun 2018 17:06:20 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 17:06:20 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 17:06:20 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 17:06:20 connect to proxy result: 0
+Mon, 11 Jun 2018 17:06:20 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 17:06:20 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 17:06:20 re-getting the computer idn
+Mon, 11 Jun 2018 17:06:20 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 17:06:20 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 17:06:20 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 17:06:20 Success
+Mon, 11 Jun 2018 17:06:20 local address: 10.188.34.19
+Mon, 11 Jun 2018 17:06:20 Last status: Done
+Mon, 11 Jun 2018 17:06:20 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 17:06:20 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 17:06:20 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 17:06:21 Success
+Mon, 11 Jun 2018 17:06:21 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 17:06:21 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 17:06:21 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 17:06:21 connect to proxy result: 0
+Mon, 11 Jun 2018 17:06:21 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 17:06:21 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 17:06:21 re-getting the computer idn
+Mon, 11 Jun 2018 17:06:21 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 17:06:21 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 17:06:21 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 17:06:22 Success
+Mon, 11 Jun 2018 17:06:22 local address: 10.188.34.19
+Mon, 11 Jun 2018 17:06:22 Last status: Done
+Mon, 11 Jun 2018 17:06:22 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 17:06:22 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 17:06:22 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 17:06:22 Success
+Mon, 11 Jun 2018 18:03:47 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 18:03:47 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 18:03:47 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 18:03:47 connect to proxy result: 0
+Mon, 11 Jun 2018 18:03:47 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 18:03:47 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 18:03:47 re-getting the computer idn
+Mon, 11 Jun 2018 18:03:47 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 18:03:47 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 18:03:47 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 18:03:47 Success
+Mon, 11 Jun 2018 18:03:47 local address: 10.188.34.19
+Mon, 11 Jun 2018 18:03:47 Last status: Done
+Mon, 11 Jun 2018 18:03:47 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 18:03:47 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 18:03:47 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 18:03:48 Success
+Mon, 11 Jun 2018 18:03:48 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 18:03:48 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 18:03:48 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 18:03:48 connect to proxy result: 0
+Mon, 11 Jun 2018 18:03:48 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 18:03:48 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 18:03:48 re-getting the computer idn
+Mon, 11 Jun 2018 18:03:48 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 18:03:48 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 18:03:48 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 18:03:48 Success
+Mon, 11 Jun 2018 18:03:48 local address: 10.188.34.19
+Mon, 11 Jun 2018 18:03:48 Last status: Done
+Mon, 11 Jun 2018 18:03:48 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 18:03:48 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 18:03:48 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 18:03:49 Success
+Mon, 11 Jun 2018 18:03:50 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 18:03:50 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 18:03:50 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 18:03:50 connect to proxy result: 0
+Mon, 11 Jun 2018 18:03:50 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 18:03:50 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 18:03:50 re-getting the computer idn
+Mon, 11 Jun 2018 18:03:50 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 18:03:50 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 18:03:50 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 18:03:50 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 18:03:50 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 18:03:50 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 18:03:50 connect to proxy result: 0
+Mon, 11 Jun 2018 18:03:50 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 18:03:50 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 18:03:50 re-getting the computer idn
+Mon, 11 Jun 2018 18:03:50 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 18:03:50 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 18:03:50 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 18:03:51 Success
+Mon, 11 Jun 2018 18:03:51 local address: 10.188.34.19
+Mon, 11 Jun 2018 18:03:51 Last status: Done
+Mon, 11 Jun 2018 18:03:51 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 18:03:51 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 18:03:51 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 18:03:51 Success
+Mon, 11 Jun 2018 18:03:51 local address: 10.188.34.19
+Mon, 11 Jun 2018 18:03:51 Last status: Done
+Mon, 11 Jun 2018 18:03:51 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 18:03:51 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 18:03:51 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 18:03:52 Success
+Mon, 11 Jun 2018 18:03:52 Success
+Mon, 11 Jun 2018 18:03:52 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 18:03:52 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 18:03:52 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 18:03:52 connect to proxy result: 0
+Mon, 11 Jun 2018 18:03:52 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 18:03:52 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 18:03:52 re-getting the computer idn
+Mon, 11 Jun 2018 18:03:52 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 18:03:52 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 18:03:52 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 18:03:53 Success
+Mon, 11 Jun 2018 18:03:53 local address: 10.188.34.19
+Mon, 11 Jun 2018 18:03:53 Last status: Done
+Mon, 11 Jun 2018 18:03:53 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 18:03:53 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 18:03:53 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 18:03:53 Success
+Mon, 11 Jun 2018 18:28:04 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 18:28:04 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 18:28:04 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 18:28:04 connect to proxy result: 0
+Mon, 11 Jun 2018 18:28:04 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 18:28:04 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 18:28:04 re-getting the computer idn
+Mon, 11 Jun 2018 18:28:04 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 18:28:04 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 18:28:04 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 18:28:05 Success
+Mon, 11 Jun 2018 18:28:05 local address: 10.188.34.19
+Mon, 11 Jun 2018 18:28:05 Last status: Done
+Mon, 11 Jun 2018 18:28:05 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 18:28:05 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 18:28:05 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 18:28:05 Success
+Mon, 11 Jun 2018 18:28:05 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 18:28:05 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 18:28:05 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 18:28:05 connect to proxy result: 0
+Mon, 11 Jun 2018 18:28:05 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 18:28:05 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 18:28:05 re-getting the computer idn
+Mon, 11 Jun 2018 18:28:05 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 18:28:05 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 18:28:05 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 18:28:06 Success
+Mon, 11 Jun 2018 18:28:06 local address: 10.188.34.19
+Mon, 11 Jun 2018 18:28:06 Last status: Done
+Mon, 11 Jun 2018 18:28:06 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 18:28:06 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 18:28:06 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 18:28:06 Success
+Mon, 11 Jun 2018 23:02:11 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 23:02:11 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 23:02:11 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 23:02:11 connect to proxy result: 0
+Mon, 11 Jun 2018 23:02:11 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 23:02:11 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 23:02:11 re-getting the computer idn
+Mon, 11 Jun 2018 23:02:11 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 23:02:11 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 23:02:11 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 23:02:12 Success
+Mon, 11 Jun 2018 23:02:12 local address: 10.188.34.19
+Mon, 11 Jun 2018 23:02:12 Last status: Done
+Mon, 11 Jun 2018 23:02:12 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 23:02:12 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 23:02:12 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 23:02:12 Success
+Mon, 11 Jun 2018 23:02:12 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 23:02:12 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 23:02:12 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 23:02:12 connect to proxy result: 0
+Mon, 11 Jun 2018 23:02:12 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 23:02:12 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 23:02:12 re-getting the computer idn
+Mon, 11 Jun 2018 23:02:12 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 23:02:12 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 23:02:12 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 23:02:13 Success
+Mon, 11 Jun 2018 23:02:13 local address: 10.188.34.19
+Mon, 11 Jun 2018 23:02:13 Last status: Done
+Mon, 11 Jun 2018 23:02:13 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 23:02:13 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 23:02:13 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 23:02:13 Success
+Mon, 11 Jun 2018 23:02:15 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 23:02:15 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 23:02:15 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 23:02:15 connect to proxy result: 0
+Mon, 11 Jun 2018 23:02:15 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 23:02:15 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 23:02:15 re-getting the computer idn
+Mon, 11 Jun 2018 23:02:15 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 23:02:15 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 23:02:15 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 23:02:15 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 23:02:15 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 23:02:15 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 23:02:15 connect to proxy result: 0
+Mon, 11 Jun 2018 23:02:15 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 23:02:15 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 23:02:15 re-getting the computer idn
+Mon, 11 Jun 2018 23:02:15 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 23:02:15 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 23:02:15 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 23:02:16 Success
+Mon, 11 Jun 2018 23:02:16 local address: 10.188.34.19
+Mon, 11 Jun 2018 23:02:16 Last status: Done
+Mon, 11 Jun 2018 23:02:16 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 23:02:16 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 23:02:16 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 23:02:16 Success
+Mon, 11 Jun 2018 23:02:16 local address: 10.188.34.19
+Mon, 11 Jun 2018 23:02:16 Last status: Done
+Mon, 11 Jun 2018 23:02:16 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 23:02:16 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 23:02:16 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 23:02:16 Success
+Mon, 11 Jun 2018 23:02:16 Success
+Mon, 11 Jun 2018 23:02:17 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Mon, 11 Jun 2018 23:02:17 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Mon, 11 Jun 2018 23:02:17 Attempting to connect to proxyhost
+Mon, 11 Jun 2018 23:02:17 connect to proxy result: 0
+Mon, 11 Jun 2018 23:02:17 Using proxyhost to communicate with the core
+Mon, 11 Jun 2018 23:02:17 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Mon, 11 Jun 2018 23:02:17 re-getting the computer idn
+Mon, 11 Jun 2018 23:02:17 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Mon, 11 Jun 2018 23:02:17 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 23:02:17 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Mon, 11 Jun 2018 23:02:18 Success
+Mon, 11 Jun 2018 23:02:18 local address: 10.188.34.19
+Mon, 11 Jun 2018 23:02:18 Last status: Done
+Mon, 11 Jun 2018 23:02:18 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Mon, 11 Jun 2018 23:02:18 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 23:02:18 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Mon, 11 Jun 2018 23:02:18 Success
+Tue, 12 Jun 2018 00:52:28 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 00:52:28 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 00:52:28 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 00:52:28 connect to proxy result: 0
+Tue, 12 Jun 2018 00:52:28 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 00:52:28 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 00:52:28 re-getting the computer idn
+Tue, 12 Jun 2018 00:52:28 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 00:52:28 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 00:52:28 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 00:52:28 Success
+Tue, 12 Jun 2018 00:52:28 local address: 10.188.34.19
+Tue, 12 Jun 2018 00:52:28 Last status: Done
+Tue, 12 Jun 2018 00:52:28 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 00:52:28 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 00:52:28 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 00:52:29 Success
+Tue, 12 Jun 2018 00:52:29 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 00:52:29 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 00:52:29 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 00:52:29 connect to proxy result: 0
+Tue, 12 Jun 2018 00:52:29 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 00:52:29 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 00:52:29 re-getting the computer idn
+Tue, 12 Jun 2018 00:52:29 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 00:52:29 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 00:52:29 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 00:52:30 Success
+Tue, 12 Jun 2018 00:52:30 local address: 10.188.34.19
+Tue, 12 Jun 2018 00:52:30 Last status: Done
+Tue, 12 Jun 2018 00:52:30 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 00:52:30 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 00:52:30 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 00:52:30 Success
+Tue, 12 Jun 2018 17:05:15 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 17:05:15 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 17:05:15 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 17:05:15 connect to proxy result: 0
+Tue, 12 Jun 2018 17:05:15 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 17:05:15 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 17:05:15 re-getting the computer idn
+Tue, 12 Jun 2018 17:05:15 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 17:05:15 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 17:05:15 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 17:05:16 Success
+Tue, 12 Jun 2018 17:05:16 local address: 10.188.34.19
+Tue, 12 Jun 2018 17:05:16 Last status: Done
+Tue, 12 Jun 2018 17:05:16 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 17:05:16 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 17:05:16 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 17:05:16 Success
+Tue, 12 Jun 2018 17:05:17 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 17:05:17 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 17:05:17 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 17:05:17 connect to proxy result: 0
+Tue, 12 Jun 2018 17:05:17 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 17:05:17 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 17:05:17 re-getting the computer idn
+Tue, 12 Jun 2018 17:05:17 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 17:05:17 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 17:05:17 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 17:05:17 Success
+Tue, 12 Jun 2018 17:05:17 local address: 10.188.34.19
+Tue, 12 Jun 2018 17:05:17 Last status: Done
+Tue, 12 Jun 2018 17:05:17 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 17:05:17 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 17:05:17 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 17:05:18 Success
+Tue, 12 Jun 2018 17:05:19 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 17:05:19 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 17:05:19 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 17:05:19 connect to proxy result: 0
+Tue, 12 Jun 2018 17:05:19 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 17:05:19 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 17:05:19 re-getting the computer idn
+Tue, 12 Jun 2018 17:05:19 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 17:05:19 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 17:05:19 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 17:05:19 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 17:05:19 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 17:05:19 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 17:05:19 connect to proxy result: 0
+Tue, 12 Jun 2018 17:05:19 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 17:05:19 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 17:05:19 re-getting the computer idn
+Tue, 12 Jun 2018 17:05:19 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 17:05:19 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 17:05:19 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 17:05:20 Success
+Tue, 12 Jun 2018 17:05:20 local address: 10.188.34.19
+Tue, 12 Jun 2018 17:05:20 Last status: Done
+Tue, 12 Jun 2018 17:05:20 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 17:05:20 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 17:05:20 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 17:05:20 Success
+Tue, 12 Jun 2018 17:05:20 local address: 10.188.34.19
+Tue, 12 Jun 2018 17:05:20 Last status: Done
+Tue, 12 Jun 2018 17:05:20 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 17:05:20 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 17:05:20 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 17:05:20 Success
+Tue, 12 Jun 2018 17:05:20 Success
+Tue, 12 Jun 2018 17:05:22 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 17:05:22 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 17:05:22 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 17:05:22 connect to proxy result: 0
+Tue, 12 Jun 2018 17:05:22 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 17:05:22 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 17:05:22 re-getting the computer idn
+Tue, 12 Jun 2018 17:05:22 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 17:05:22 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 17:05:22 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 17:05:22 Success
+Tue, 12 Jun 2018 17:05:22 local address: 10.188.34.19
+Tue, 12 Jun 2018 17:05:22 Last status: Done
+Tue, 12 Jun 2018 17:05:22 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 17:05:22 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 17:05:22 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 17:05:23 Success
+Tue, 12 Jun 2018 17:06:04 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 17:06:04 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 17:06:04 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 17:06:04 connect to proxy result: 0
+Tue, 12 Jun 2018 17:06:04 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 17:06:04 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 17:06:04 re-getting the computer idn
+Tue, 12 Jun 2018 17:06:04 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 17:06:04 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 17:06:04 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 17:06:05 Success
+Tue, 12 Jun 2018 17:06:05 local address: 10.188.34.19
+Tue, 12 Jun 2018 17:06:05 Last status: Done
+Tue, 12 Jun 2018 17:06:05 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 17:06:05 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 17:06:05 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 17:06:05 Success
+Tue, 12 Jun 2018 17:06:06 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 17:06:06 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 17:06:06 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 17:06:06 connect to proxy result: 0
+Tue, 12 Jun 2018 17:06:06 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 17:06:06 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 17:06:06 re-getting the computer idn
+Tue, 12 Jun 2018 17:06:06 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 17:06:06 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 17:06:06 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 17:06:07 Success
+Tue, 12 Jun 2018 17:06:07 local address: 10.188.34.19
+Tue, 12 Jun 2018 17:06:07 Last status: Done
+Tue, 12 Jun 2018 17:06:07 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 17:06:07 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 17:06:07 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 17:06:07 Success
+Tue, 12 Jun 2018 18:03:52 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 18:03:53 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 18:03:53 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 18:03:53 connect to proxy result: 0
+Tue, 12 Jun 2018 18:03:53 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 18:03:53 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 18:03:53 re-getting the computer idn
+Tue, 12 Jun 2018 18:03:53 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 18:03:53 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 18:03:53 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 18:03:53 Success
+Tue, 12 Jun 2018 18:03:53 local address: 10.188.34.19
+Tue, 12 Jun 2018 18:03:53 Last status: Done
+Tue, 12 Jun 2018 18:03:53 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 18:03:53 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 18:03:53 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 18:03:54 Success
+Tue, 12 Jun 2018 18:03:54 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 18:03:54 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 18:03:54 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 18:03:54 connect to proxy result: 0
+Tue, 12 Jun 2018 18:03:54 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 18:03:54 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 18:03:54 re-getting the computer idn
+Tue, 12 Jun 2018 18:03:54 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 18:03:54 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 18:03:54 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 18:03:54 Success
+Tue, 12 Jun 2018 18:03:54 local address: 10.188.34.19
+Tue, 12 Jun 2018 18:03:54 Last status: Done
+Tue, 12 Jun 2018 18:03:54 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 18:03:54 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 18:03:54 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 18:03:55 Success
+Tue, 12 Jun 2018 18:03:56 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 18:03:56 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 18:03:56 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 18:03:56 connect to proxy result: 0
+Tue, 12 Jun 2018 18:03:56 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 18:03:56 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 18:03:56 re-getting the computer idn
+Tue, 12 Jun 2018 18:03:56 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 18:03:56 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 18:03:56 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 18:03:56 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 18:03:56 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 18:03:56 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 18:03:56 connect to proxy result: 0
+Tue, 12 Jun 2018 18:03:56 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 18:03:56 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 18:03:56 re-getting the computer idn
+Tue, 12 Jun 2018 18:03:56 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 18:03:56 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 18:03:56 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 18:03:57 Success
+Tue, 12 Jun 2018 18:03:57 local address: 10.188.34.19
+Tue, 12 Jun 2018 18:03:57 Last status: Done
+Tue, 12 Jun 2018 18:03:57 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 18:03:57 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 18:03:57 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 18:03:57 Success
+Tue, 12 Jun 2018 18:03:57 local address: 10.188.34.19
+Tue, 12 Jun 2018 18:03:57 Last status: Done
+Tue, 12 Jun 2018 18:03:57 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 18:03:57 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 18:03:57 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 18:03:58 Success
+Tue, 12 Jun 2018 18:03:58 Success
+Tue, 12 Jun 2018 18:03:58 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 18:03:58 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 18:03:58 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 18:03:58 connect to proxy result: 0
+Tue, 12 Jun 2018 18:03:58 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 18:03:58 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 18:03:58 re-getting the computer idn
+Tue, 12 Jun 2018 18:03:58 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 18:03:58 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 18:03:58 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 18:03:59 Success
+Tue, 12 Jun 2018 18:03:59 local address: 10.188.34.19
+Tue, 12 Jun 2018 18:03:59 Last status: Done
+Tue, 12 Jun 2018 18:03:59 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 18:03:59 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 18:03:59 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 18:03:59 Success
+Tue, 12 Jun 2018 18:05:04 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 18:05:04 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 18:05:04 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 18:05:04 connect to proxy result: 0
+Tue, 12 Jun 2018 18:05:04 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 18:05:04 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 18:05:04 re-getting the computer idn
+Tue, 12 Jun 2018 18:05:04 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 18:05:04 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 18:05:04 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 18:05:05 Success
+Tue, 12 Jun 2018 18:05:05 local address: 10.188.34.19
+Tue, 12 Jun 2018 18:05:05 Last status: Done
+Tue, 12 Jun 2018 18:05:05 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 18:05:05 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 18:05:05 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 18:05:05 Success
+Tue, 12 Jun 2018 18:05:06 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 18:05:06 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 18:05:06 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 18:05:06 connect to proxy result: 0
+Tue, 12 Jun 2018 18:05:06 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 18:05:06 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 18:05:06 re-getting the computer idn
+Tue, 12 Jun 2018 18:05:06 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 18:05:06 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 18:05:06 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 18:05:06 Success
+Tue, 12 Jun 2018 18:05:06 local address: 10.188.34.19
+Tue, 12 Jun 2018 18:05:06 Last status: Done
+Tue, 12 Jun 2018 18:05:06 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 18:05:06 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 18:05:06 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 18:05:07 Success
+Tue, 12 Jun 2018 23:02:10 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 23:02:10 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 23:02:10 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 23:02:10 connect to proxy result: 0
+Tue, 12 Jun 2018 23:02:10 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 23:02:10 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 23:02:10 re-getting the computer idn
+Tue, 12 Jun 2018 23:02:10 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 23:02:10 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 23:02:10 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 23:02:10 Success
+Tue, 12 Jun 2018 23:02:10 local address: 10.188.34.19
+Tue, 12 Jun 2018 23:02:10 Last status: Done
+Tue, 12 Jun 2018 23:02:10 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 23:02:10 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 23:02:10 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 23:02:11 Success
+Tue, 12 Jun 2018 23:02:11 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 23:02:11 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 23:02:11 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 23:02:11 connect to proxy result: 0
+Tue, 12 Jun 2018 23:02:11 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 23:02:11 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 23:02:11 re-getting the computer idn
+Tue, 12 Jun 2018 23:02:11 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 23:02:11 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 23:02:11 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 23:02:12 Success
+Tue, 12 Jun 2018 23:02:12 local address: 10.188.34.19
+Tue, 12 Jun 2018 23:02:12 Last status: Done
+Tue, 12 Jun 2018 23:02:12 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 23:02:12 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 23:02:12 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 23:02:12 Success
+Tue, 12 Jun 2018 23:02:13 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 23:02:13 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 23:02:13 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 23:02:13 connect to proxy result: 0
+Tue, 12 Jun 2018 23:02:13 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 23:02:13 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 23:02:13 re-getting the computer idn
+Tue, 12 Jun 2018 23:02:13 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 23:02:13 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 23:02:13 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 23:02:13 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 23:02:13 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 23:02:13 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 23:02:13 connect to proxy result: 0
+Tue, 12 Jun 2018 23:02:13 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 23:02:13 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 23:02:13 re-getting the computer idn
+Tue, 12 Jun 2018 23:02:13 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 23:02:13 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 23:02:13 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 23:02:14 Success
+Tue, 12 Jun 2018 23:02:14 local address: 10.188.34.19
+Tue, 12 Jun 2018 23:02:14 Last status: Done
+Tue, 12 Jun 2018 23:02:14 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 23:02:14 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 23:02:14 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 23:02:14 Success
+Tue, 12 Jun 2018 23:02:14 local address: 10.188.34.19
+Tue, 12 Jun 2018 23:02:14 Last status: Done
+Tue, 12 Jun 2018 23:02:14 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 23:02:14 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 23:02:14 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 23:02:15 Success
+Tue, 12 Jun 2018 23:02:15 Success
+Tue, 12 Jun 2018 23:02:16 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 23:02:16 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 23:02:16 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 23:02:16 connect to proxy result: 0
+Tue, 12 Jun 2018 23:02:16 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 23:02:16 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 23:02:16 re-getting the computer idn
+Tue, 12 Jun 2018 23:02:16 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 23:02:16 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 23:02:16 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 23:02:17 Success
+Tue, 12 Jun 2018 23:02:17 local address: 10.188.34.19
+Tue, 12 Jun 2018 23:02:17 Last status: Done
+Tue, 12 Jun 2018 23:02:17 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 23:02:17 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 23:02:17 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 23:02:17 Success
+Tue, 12 Jun 2018 23:22:56 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 23:22:56 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 23:22:56 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 23:22:56 connect to proxy result: 0
+Tue, 12 Jun 2018 23:22:56 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 23:22:57 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 23:22:57 re-getting the computer idn
+Tue, 12 Jun 2018 23:22:57 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 23:22:57 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 23:22:57 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 23:22:57 Success
+Tue, 12 Jun 2018 23:22:57 local address: 10.188.34.19
+Tue, 12 Jun 2018 23:22:57 Last status: Done
+Tue, 12 Jun 2018 23:22:57 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 23:22:57 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 23:22:57 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 23:22:58 Success
+Tue, 12 Jun 2018 23:22:58 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version (10.1.10.6)
+Tue, 12 Jun 2018 23:22:58 File C:\Program Files (x86)\LANDesk\Shared Files\ProxyHost.exe version within specified
+Tue, 12 Jun 2018 23:22:58 Attempting to connect to proxyhost
+Tue, 12 Jun 2018 23:22:58 connect to proxy result: 0
+Tue, 12 Jun 2018 23:22:58 Using proxyhost to communicate with the core
+Tue, 12 Jun 2018 23:22:58 Core server name found in HKLM\SOFTWARE\Intel\LANDesk\LDWM: WWGRPDMT1003.dc.ege.ds
+Tue, 12 Jun 2018 23:22:58 re-getting the computer idn
+Tue, 12 Jun 2018 23:22:58 Verifying device ID with core WWGRPDMT1003.dc.ege.ds 
+Tue, 12 Jun 2018 23:22:58 In SendRequest: Action = SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 23:22:58 SendRequest: SOAPAction: "http://tempuri.org/ResolveDeviceID"
+
+Tue, 12 Jun 2018 23:22:58 Success
+Tue, 12 Jun 2018 23:22:58 local address: 10.188.34.19
+Tue, 12 Jun 2018 23:22:58 Last status: Done
+Tue, 12 Jun 2018 23:22:58 GetComputerIdn {7BD1E1EF-5C28-9A45-AFBB-C451B8F1DD6A} = 6385
+Tue, 12 Jun 2018 23:22:58 In SendRequest: Action = SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 23:22:58 SendRequest: SOAPAction: "http://tempuri.org/SetPatchInstallStatus2"
+
+Tue, 12 Jun 2018 23:22:59 Success
